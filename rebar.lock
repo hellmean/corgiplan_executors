@@ -1,0 +1,4 @@
+[{<<"corgiplan_executor">>,
+  {git,"https://github.com/hellmean/corgiplan_executor.git",
+       {ref,"87c8dc19621743cb585923266ba66f3e8564e6d4"}},
+  0}].
